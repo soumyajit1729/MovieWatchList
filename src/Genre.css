@@ -1,0 +1,17 @@
+.Genre button{
+    margin:10px;
+    background: #009900;
+    padding: 10px;
+    color: white;
+    width: 200px;
+}
+.Genre{
+    background: #ffff33;
+    max-width: 30%;
+    height: auto;
+    align-self: center;
+    position: fixed;
+    box-shadow: 10px 10px 5px grey;
+    border: 1px solid black;
+    margin-left: 20px;
+}
